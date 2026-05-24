@@ -1,0 +1,15 @@
+# AI
+.antigravitycli
+
+# IDE
+.idea
+
+# Build
+/bin/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
